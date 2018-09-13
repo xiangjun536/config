@@ -15,5 +15,5 @@ eureka:
 env:
     dev
 gril:
-  name: 成功行者
+  name: sasa
   age: 925
